@@ -4,4 +4,4 @@ title: "First posting"
 subtitle: "I can make a Blog"
 ---
 
-<p>I made a blog.</p>
+#I made a blog.
